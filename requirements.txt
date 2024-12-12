@@ -1,0 +1,8 @@
+transformers
+datasets
+evaluate
+rouge-score
+torch
+tqdm
+kaggle_secrets
+huggingface_hub
